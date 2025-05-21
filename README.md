@@ -10,13 +10,14 @@
 ⭐ Star us on GitHub — every star is greatly appreciated
 
 ## Table of Contents
-- [🚀 About](#-🚀-about)
-- [📝 How to Build](#-📝-how-to-build)
-- [📚 Project Structure & Components](#-📚-project-structure--components)
-- [📬 Contacts](#-📬-contacts)
+- [About](#-about)
+- [How to Build](#-how-to-build)
+- [Project Structure & Components](#-project-structure--components)
+- [Contacts](#-contacts)
 
 
 
+<a name="about"></a>
 ## 🚀 About
 
 **3D Interactive Ferris Wheel Simulator** is a C++/OpenGL application that demonstrates modern real-time graphics techniques through an immersive, interactive simulation of a Ferris wheel. The project is designed for educational and demonstrative purposes, showcasing key concepts in computer graphics and interactive 3D environments.
@@ -31,6 +32,7 @@ This simulator was an ideal project for learning and demonstrating core graphics
 
 
 
+<a name="how-to-build"></a>
 ## 📝 How to Build
 
 To build this project, follow these steps:
@@ -81,6 +83,7 @@ CMake: Build
 
 
 
+<a name="project-structure-components"></a>
 ## 📚 Project Structure & Components
 
 This project is a modular OpenGL graphics application. Here’s a deeper look at each major component:
@@ -184,6 +187,7 @@ The entry point (`src/Main.cpp`) orchestrates the application:
 
 
 
+<a name="contacts"></a>
 ## 📬 Contacts
 
 For questions, feedback, or collaboration inquiries, please reach out:
