@@ -5,7 +5,7 @@
 # compile CXX with /usr/bin/c++
 C_DEFINES = 
 
-C_INCLUDES = -I"/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/dependencies" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/System/Library/Frameworks
+C_INCLUDES = -I"/Users/julestournier/Documents/Projects/Ferriswheel sim/dependencies" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/System/Library/Frameworks
 
 C_FLAGSarm64 = -g -arch arm64
 
@@ -13,7 +13,7 @@ C_FLAGS = -g -arch arm64
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/dependencies" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/System/Library/Frameworks
+CXX_INCLUDES = -I"/Users/julestournier/Documents/Projects/Ferriswheel sim/dependencies" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/System/Library/Frameworks
 
 CXX_FLAGSarm64 = -g -std=gnu++11 -arch arm64
 

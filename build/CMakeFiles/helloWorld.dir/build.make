@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim"
+CMAKE_SOURCE_DIR = "/Users/julestournier/Documents/Projects/Ferriswheel sim"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build
+CMAKE_BINARY_DIR = "/Users/julestournier/Documents/Projects/Ferriswheel sim/build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/helloWorld.dir/depend.make
@@ -73,144 +73,144 @@ CMakeFiles/helloWorld.dir/codegen:
 .PHONY : CMakeFiles/helloWorld.dir/codegen
 
 CMakeFiles/helloWorld.dir/src/Main.cpp.o: CMakeFiles/helloWorld.dir/flags.make
-CMakeFiles/helloWorld.dir/src/Main.cpp.o: /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel\ sim/src/Main.cpp
+CMakeFiles/helloWorld.dir/src/Main.cpp.o: /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/Main.cpp
 CMakeFiles/helloWorld.dir/src/Main.cpp.o: CMakeFiles/helloWorld.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/helloWorld.dir/src/Main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/Main.cpp.o -MF CMakeFiles/helloWorld.dir/src/Main.cpp.o.d -o CMakeFiles/helloWorld.dir/src/Main.cpp.o -c "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/helloWorld.dir/src/Main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/Main.cpp.o -MF CMakeFiles/helloWorld.dir/src/Main.cpp.o.d -o CMakeFiles/helloWorld.dir/src/Main.cpp.o -c "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Main.cpp"
 
 CMakeFiles/helloWorld.dir/src/Main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/helloWorld.dir/src/Main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Main.cpp" > CMakeFiles/helloWorld.dir/src/Main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Main.cpp" > CMakeFiles/helloWorld.dir/src/Main.cpp.i
 
 CMakeFiles/helloWorld.dir/src/Main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/helloWorld.dir/src/Main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Main.cpp" -o CMakeFiles/helloWorld.dir/src/Main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Main.cpp" -o CMakeFiles/helloWorld.dir/src/Main.cpp.s
 
 CMakeFiles/helloWorld.dir/src/glad.c.o: CMakeFiles/helloWorld.dir/flags.make
-CMakeFiles/helloWorld.dir/src/glad.c.o: /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel\ sim/src/glad.c
+CMakeFiles/helloWorld.dir/src/glad.c.o: /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/glad.c
 CMakeFiles/helloWorld.dir/src/glad.c.o: CMakeFiles/helloWorld.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/helloWorld.dir/src/glad.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/glad.c.o -MF CMakeFiles/helloWorld.dir/src/glad.c.o.d -o CMakeFiles/helloWorld.dir/src/glad.c.o -c "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/glad.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/helloWorld.dir/src/glad.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/glad.c.o -MF CMakeFiles/helloWorld.dir/src/glad.c.o.d -o CMakeFiles/helloWorld.dir/src/glad.c.o -c "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/glad.c"
 
 CMakeFiles/helloWorld.dir/src/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/helloWorld.dir/src/glad.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/glad.c" > CMakeFiles/helloWorld.dir/src/glad.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/glad.c" > CMakeFiles/helloWorld.dir/src/glad.c.i
 
 CMakeFiles/helloWorld.dir/src/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/helloWorld.dir/src/glad.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/glad.c" -o CMakeFiles/helloWorld.dir/src/glad.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/glad.c" -o CMakeFiles/helloWorld.dir/src/glad.c.s
 
 CMakeFiles/helloWorld.dir/src/VAO.cpp.o: CMakeFiles/helloWorld.dir/flags.make
-CMakeFiles/helloWorld.dir/src/VAO.cpp.o: /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel\ sim/src/VAO.cpp
+CMakeFiles/helloWorld.dir/src/VAO.cpp.o: /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/VAO.cpp
 CMakeFiles/helloWorld.dir/src/VAO.cpp.o: CMakeFiles/helloWorld.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/helloWorld.dir/src/VAO.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/VAO.cpp.o -MF CMakeFiles/helloWorld.dir/src/VAO.cpp.o.d -o CMakeFiles/helloWorld.dir/src/VAO.cpp.o -c "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/VAO.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/helloWorld.dir/src/VAO.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/VAO.cpp.o -MF CMakeFiles/helloWorld.dir/src/VAO.cpp.o.d -o CMakeFiles/helloWorld.dir/src/VAO.cpp.o -c "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/VAO.cpp"
 
 CMakeFiles/helloWorld.dir/src/VAO.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/helloWorld.dir/src/VAO.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/VAO.cpp" > CMakeFiles/helloWorld.dir/src/VAO.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/VAO.cpp" > CMakeFiles/helloWorld.dir/src/VAO.cpp.i
 
 CMakeFiles/helloWorld.dir/src/VAO.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/helloWorld.dir/src/VAO.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/VAO.cpp" -o CMakeFiles/helloWorld.dir/src/VAO.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/VAO.cpp" -o CMakeFiles/helloWorld.dir/src/VAO.cpp.s
 
 CMakeFiles/helloWorld.dir/src/VBO.cpp.o: CMakeFiles/helloWorld.dir/flags.make
-CMakeFiles/helloWorld.dir/src/VBO.cpp.o: /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel\ sim/src/VBO.cpp
+CMakeFiles/helloWorld.dir/src/VBO.cpp.o: /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/VBO.cpp
 CMakeFiles/helloWorld.dir/src/VBO.cpp.o: CMakeFiles/helloWorld.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/helloWorld.dir/src/VBO.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/VBO.cpp.o -MF CMakeFiles/helloWorld.dir/src/VBO.cpp.o.d -o CMakeFiles/helloWorld.dir/src/VBO.cpp.o -c "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/VBO.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/helloWorld.dir/src/VBO.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/VBO.cpp.o -MF CMakeFiles/helloWorld.dir/src/VBO.cpp.o.d -o CMakeFiles/helloWorld.dir/src/VBO.cpp.o -c "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/VBO.cpp"
 
 CMakeFiles/helloWorld.dir/src/VBO.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/helloWorld.dir/src/VBO.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/VBO.cpp" > CMakeFiles/helloWorld.dir/src/VBO.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/VBO.cpp" > CMakeFiles/helloWorld.dir/src/VBO.cpp.i
 
 CMakeFiles/helloWorld.dir/src/VBO.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/helloWorld.dir/src/VBO.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/VBO.cpp" -o CMakeFiles/helloWorld.dir/src/VBO.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/VBO.cpp" -o CMakeFiles/helloWorld.dir/src/VBO.cpp.s
 
 CMakeFiles/helloWorld.dir/src/EBO.cpp.o: CMakeFiles/helloWorld.dir/flags.make
-CMakeFiles/helloWorld.dir/src/EBO.cpp.o: /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel\ sim/src/EBO.cpp
+CMakeFiles/helloWorld.dir/src/EBO.cpp.o: /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/EBO.cpp
 CMakeFiles/helloWorld.dir/src/EBO.cpp.o: CMakeFiles/helloWorld.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/helloWorld.dir/src/EBO.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/EBO.cpp.o -MF CMakeFiles/helloWorld.dir/src/EBO.cpp.o.d -o CMakeFiles/helloWorld.dir/src/EBO.cpp.o -c "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/EBO.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/helloWorld.dir/src/EBO.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/EBO.cpp.o -MF CMakeFiles/helloWorld.dir/src/EBO.cpp.o.d -o CMakeFiles/helloWorld.dir/src/EBO.cpp.o -c "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/EBO.cpp"
 
 CMakeFiles/helloWorld.dir/src/EBO.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/helloWorld.dir/src/EBO.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/EBO.cpp" > CMakeFiles/helloWorld.dir/src/EBO.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/EBO.cpp" > CMakeFiles/helloWorld.dir/src/EBO.cpp.i
 
 CMakeFiles/helloWorld.dir/src/EBO.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/helloWorld.dir/src/EBO.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/EBO.cpp" -o CMakeFiles/helloWorld.dir/src/EBO.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/EBO.cpp" -o CMakeFiles/helloWorld.dir/src/EBO.cpp.s
 
 CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o: CMakeFiles/helloWorld.dir/flags.make
-CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o: /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel\ sim/src/shaderClass.cpp
+CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o: /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/shaderClass.cpp
 CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o: CMakeFiles/helloWorld.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o -MF CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o.d -o CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o -c "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/shaderClass.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o -MF CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o.d -o CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o -c "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/shaderClass.cpp"
 
 CMakeFiles/helloWorld.dir/src/shaderClass.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/helloWorld.dir/src/shaderClass.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/shaderClass.cpp" > CMakeFiles/helloWorld.dir/src/shaderClass.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/shaderClass.cpp" > CMakeFiles/helloWorld.dir/src/shaderClass.cpp.i
 
 CMakeFiles/helloWorld.dir/src/shaderClass.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/helloWorld.dir/src/shaderClass.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/shaderClass.cpp" -o CMakeFiles/helloWorld.dir/src/shaderClass.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/shaderClass.cpp" -o CMakeFiles/helloWorld.dir/src/shaderClass.cpp.s
 
 CMakeFiles/helloWorld.dir/src/Camera.cpp.o: CMakeFiles/helloWorld.dir/flags.make
-CMakeFiles/helloWorld.dir/src/Camera.cpp.o: /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel\ sim/src/Camera.cpp
+CMakeFiles/helloWorld.dir/src/Camera.cpp.o: /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/Camera.cpp
 CMakeFiles/helloWorld.dir/src/Camera.cpp.o: CMakeFiles/helloWorld.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/helloWorld.dir/src/Camera.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/Camera.cpp.o -MF CMakeFiles/helloWorld.dir/src/Camera.cpp.o.d -o CMakeFiles/helloWorld.dir/src/Camera.cpp.o -c "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Camera.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/helloWorld.dir/src/Camera.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/Camera.cpp.o -MF CMakeFiles/helloWorld.dir/src/Camera.cpp.o.d -o CMakeFiles/helloWorld.dir/src/Camera.cpp.o -c "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Camera.cpp"
 
 CMakeFiles/helloWorld.dir/src/Camera.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/helloWorld.dir/src/Camera.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Camera.cpp" > CMakeFiles/helloWorld.dir/src/Camera.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Camera.cpp" > CMakeFiles/helloWorld.dir/src/Camera.cpp.i
 
 CMakeFiles/helloWorld.dir/src/Camera.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/helloWorld.dir/src/Camera.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Camera.cpp" -o CMakeFiles/helloWorld.dir/src/Camera.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Camera.cpp" -o CMakeFiles/helloWorld.dir/src/Camera.cpp.s
 
 CMakeFiles/helloWorld.dir/src/Texture.cpp.o: CMakeFiles/helloWorld.dir/flags.make
-CMakeFiles/helloWorld.dir/src/Texture.cpp.o: /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel\ sim/src/Texture.cpp
+CMakeFiles/helloWorld.dir/src/Texture.cpp.o: /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/Texture.cpp
 CMakeFiles/helloWorld.dir/src/Texture.cpp.o: CMakeFiles/helloWorld.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/helloWorld.dir/src/Texture.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/Texture.cpp.o -MF CMakeFiles/helloWorld.dir/src/Texture.cpp.o.d -o CMakeFiles/helloWorld.dir/src/Texture.cpp.o -c "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Texture.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/helloWorld.dir/src/Texture.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/Texture.cpp.o -MF CMakeFiles/helloWorld.dir/src/Texture.cpp.o.d -o CMakeFiles/helloWorld.dir/src/Texture.cpp.o -c "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Texture.cpp"
 
 CMakeFiles/helloWorld.dir/src/Texture.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/helloWorld.dir/src/Texture.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Texture.cpp" > CMakeFiles/helloWorld.dir/src/Texture.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Texture.cpp" > CMakeFiles/helloWorld.dir/src/Texture.cpp.i
 
 CMakeFiles/helloWorld.dir/src/Texture.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/helloWorld.dir/src/Texture.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Texture.cpp" -o CMakeFiles/helloWorld.dir/src/Texture.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Texture.cpp" -o CMakeFiles/helloWorld.dir/src/Texture.cpp.s
 
 CMakeFiles/helloWorld.dir/src/Mesh.cpp.o: CMakeFiles/helloWorld.dir/flags.make
-CMakeFiles/helloWorld.dir/src/Mesh.cpp.o: /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel\ sim/src/Mesh.cpp
+CMakeFiles/helloWorld.dir/src/Mesh.cpp.o: /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/Mesh.cpp
 CMakeFiles/helloWorld.dir/src/Mesh.cpp.o: CMakeFiles/helloWorld.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/helloWorld.dir/src/Mesh.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/Mesh.cpp.o -MF CMakeFiles/helloWorld.dir/src/Mesh.cpp.o.d -o CMakeFiles/helloWorld.dir/src/Mesh.cpp.o -c "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Mesh.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/helloWorld.dir/src/Mesh.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/Mesh.cpp.o -MF CMakeFiles/helloWorld.dir/src/Mesh.cpp.o.d -o CMakeFiles/helloWorld.dir/src/Mesh.cpp.o -c "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Mesh.cpp"
 
 CMakeFiles/helloWorld.dir/src/Mesh.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/helloWorld.dir/src/Mesh.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Mesh.cpp" > CMakeFiles/helloWorld.dir/src/Mesh.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Mesh.cpp" > CMakeFiles/helloWorld.dir/src/Mesh.cpp.i
 
 CMakeFiles/helloWorld.dir/src/Mesh.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/helloWorld.dir/src/Mesh.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Mesh.cpp" -o CMakeFiles/helloWorld.dir/src/Mesh.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Mesh.cpp" -o CMakeFiles/helloWorld.dir/src/Mesh.cpp.s
 
 CMakeFiles/helloWorld.dir/src/stb.cpp.o: CMakeFiles/helloWorld.dir/flags.make
-CMakeFiles/helloWorld.dir/src/stb.cpp.o: /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel\ sim/src/stb.cpp
+CMakeFiles/helloWorld.dir/src/stb.cpp.o: /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/stb.cpp
 CMakeFiles/helloWorld.dir/src/stb.cpp.o: CMakeFiles/helloWorld.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/helloWorld.dir/src/stb.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/stb.cpp.o -MF CMakeFiles/helloWorld.dir/src/stb.cpp.o.d -o CMakeFiles/helloWorld.dir/src/stb.cpp.o -c "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/stb.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/helloWorld.dir/src/stb.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/helloWorld.dir/src/stb.cpp.o -MF CMakeFiles/helloWorld.dir/src/stb.cpp.o.d -o CMakeFiles/helloWorld.dir/src/stb.cpp.o -c "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/stb.cpp"
 
 CMakeFiles/helloWorld.dir/src/stb.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/helloWorld.dir/src/stb.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/stb.cpp" > CMakeFiles/helloWorld.dir/src/stb.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/stb.cpp" > CMakeFiles/helloWorld.dir/src/stb.cpp.i
 
 CMakeFiles/helloWorld.dir/src/stb.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/helloWorld.dir/src/stb.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/stb.cpp" -o CMakeFiles/helloWorld.dir/src/stb.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/stb.cpp" -o CMakeFiles/helloWorld.dir/src/stb.cpp.s
 
 # Object files for target helloWorld
 helloWorld_OBJECTS = \
@@ -242,7 +242,7 @@ helloWorld: CMakeFiles/helloWorld.dir/build.make
 helloWorld: /opt/homebrew/lib/libglfw.3.4.dylib
 helloWorld: /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/System/Library/Frameworks/OpenGL.framework
 helloWorld: CMakeFiles/helloWorld.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable helloWorld"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable helloWorld"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/helloWorld.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -254,6 +254,6 @@ CMakeFiles/helloWorld.dir/clean:
 .PHONY : CMakeFiles/helloWorld.dir/clean
 
 CMakeFiles/helloWorld.dir/depend:
-	cd /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim" "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim" /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles/helloWorld.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd "/Users/julestournier/Documents/Projects/Ferriswheel sim/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/julestournier/Documents/Projects/Ferriswheel sim" "/Users/julestournier/Documents/Projects/Ferriswheel sim" "/Users/julestournier/Documents/Projects/Ferriswheel sim/build" "/Users/julestournier/Documents/Projects/Ferriswheel sim/build" "/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles/helloWorld.dir/DependInfo.cmake" "--color=$(COLOR)"
 .PHONY : CMakeFiles/helloWorld.dir/depend
 

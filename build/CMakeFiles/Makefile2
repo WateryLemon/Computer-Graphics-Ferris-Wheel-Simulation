@@ -54,10 +54,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim"
+CMAKE_SOURCE_DIR = "/Users/julestournier/Documents/Projects/Ferriswheel sim"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build
+CMAKE_BINARY_DIR = "/Users/julestournier/Documents/Projects/Ferriswheel sim/build"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -85,14 +85,14 @@ clean: CMakeFiles/helloWorld.dir/clean
 CMakeFiles/helloWorld.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/helloWorld.dir/build.make CMakeFiles/helloWorld.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/helloWorld.dir/build.make CMakeFiles/helloWorld.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Built target helloWorld"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles" --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Built target helloWorld"
 .PHONY : CMakeFiles/helloWorld.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/helloWorld.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles 11
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles" 11
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/helloWorld.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles" 0
 .PHONY : CMakeFiles/helloWorld.dir/rule
 
 # Convenience name for target.
@@ -102,7 +102,7 @@ helloWorld: CMakeFiles/helloWorld.dir/rule
 # codegen rule for target.
 CMakeFiles/helloWorld.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/helloWorld.dir/build.make CMakeFiles/helloWorld.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Finished codegen for target helloWorld"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles" --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Finished codegen for target helloWorld"
 .PHONY : CMakeFiles/helloWorld.dir/codegen
 
 # clean rule for target.

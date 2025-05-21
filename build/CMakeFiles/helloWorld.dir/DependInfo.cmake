@@ -8,16 +8,16 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/glad.c" "CMakeFiles/helloWorld.dir/src/glad.c.o" "gcc" "CMakeFiles/helloWorld.dir/src/glad.c.o.d"
-  "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Camera.cpp" "CMakeFiles/helloWorld.dir/src/Camera.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/Camera.cpp.o.d"
-  "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/EBO.cpp" "CMakeFiles/helloWorld.dir/src/EBO.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/EBO.cpp.o.d"
-  "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Main.cpp" "CMakeFiles/helloWorld.dir/src/Main.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/Main.cpp.o.d"
-  "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Mesh.cpp" "CMakeFiles/helloWorld.dir/src/Mesh.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/Mesh.cpp.o.d"
-  "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/Texture.cpp" "CMakeFiles/helloWorld.dir/src/Texture.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/Texture.cpp.o.d"
-  "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/VAO.cpp" "CMakeFiles/helloWorld.dir/src/VAO.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/VAO.cpp.o.d"
-  "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/VBO.cpp" "CMakeFiles/helloWorld.dir/src/VBO.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/VBO.cpp.o.d"
-  "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/shaderClass.cpp" "CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o.d"
-  "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/Ferriswheel sim/src/stb.cpp" "CMakeFiles/helloWorld.dir/src/stb.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/stb.cpp.o.d"
+  "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/glad.c" "CMakeFiles/helloWorld.dir/src/glad.c.o" "gcc" "CMakeFiles/helloWorld.dir/src/glad.c.o.d"
+  "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Camera.cpp" "CMakeFiles/helloWorld.dir/src/Camera.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/Camera.cpp.o.d"
+  "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/EBO.cpp" "CMakeFiles/helloWorld.dir/src/EBO.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/EBO.cpp.o.d"
+  "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Main.cpp" "CMakeFiles/helloWorld.dir/src/Main.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/Main.cpp.o.d"
+  "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Mesh.cpp" "CMakeFiles/helloWorld.dir/src/Mesh.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/Mesh.cpp.o.d"
+  "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Texture.cpp" "CMakeFiles/helloWorld.dir/src/Texture.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/Texture.cpp.o.d"
+  "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/VAO.cpp" "CMakeFiles/helloWorld.dir/src/VAO.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/VAO.cpp.o.d"
+  "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/VBO.cpp" "CMakeFiles/helloWorld.dir/src/VBO.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/VBO.cpp.o.d"
+  "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/shaderClass.cpp" "CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o.d"
+  "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/stb.cpp" "CMakeFiles/helloWorld.dir/src/stb.cpp.o" "gcc" "CMakeFiles/helloWorld.dir/src/stb.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
