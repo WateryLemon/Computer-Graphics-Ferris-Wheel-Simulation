@@ -1,5 +1,5 @@
 CMakeFiles/helloWorld.dir/src/glad.c.o: \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/glad.c \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/src/glad.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/sys/cdefs.h \
@@ -84,7 +84,7 @@ CMakeFiles/helloWorld.dir/src/glad.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/strings.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/secure/_strings.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/secure/_string.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glad/glad.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/KHR/khrplatform.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glad/glad.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/KHR/khrplatform.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/dlfcn.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdbool.h

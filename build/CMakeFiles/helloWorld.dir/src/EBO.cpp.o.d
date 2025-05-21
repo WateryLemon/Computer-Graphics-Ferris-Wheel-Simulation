@@ -1,8 +1,8 @@
 CMakeFiles/helloWorld.dir/src/EBO.cpp.o: \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/EBO.cpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/EBO.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glad/glad.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/KHR/khrplatform.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/src/EBO.cpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/src/EBO.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glad/glad.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/KHR/khrplatform.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdint.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__config_site \

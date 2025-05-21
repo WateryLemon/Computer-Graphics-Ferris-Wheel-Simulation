@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/julestournier/Documents/Projects/Ferriswheel sim/build"
+			"value" : "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -491,7 +491,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/julestournier/Documents/Projects/Ferriswheel sim/build/CMakeFiles/pkgRedirects"
+			"value" : "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -563,7 +563,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/julestournier/Documents/Projects/Ferriswheel sim"
+			"value" : "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1327,7 +1327,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/julestournier/Documents/Projects/Ferriswheel sim/build"
+			"value" : "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative/build"
 		},
 		{
 			"name" : "hello_world_IS_TOP_LEVEL",
@@ -1351,7 +1351,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/julestournier/Documents/Projects/Ferriswheel sim"
+			"value" : "/Users/julestournier/Documents/Projects/Computer-Graphics-Summative"
 		}
 	],
 	"kind" : "cache",

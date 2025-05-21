@@ -1,6 +1,6 @@
 CMakeFiles/helloWorld.dir/src/stb.cpp.o: \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/stb.cpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/stb/stb_image.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/src/stb.cpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/stb/stb_image.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__config_site \

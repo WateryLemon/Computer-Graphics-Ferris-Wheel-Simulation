@@ -1,6 +1,6 @@
 CMakeFiles/helloWorld.dir/src/Mesh.cpp.o: \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/Mesh.cpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/Mesh.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/src/Mesh.cpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/src/Mesh.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/string \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/max.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/comp.h \
@@ -771,196 +771,196 @@ CMakeFiles/helloWorld.dir/src/Mesh.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/weak_result_type.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/allocator_destructor.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/uses_allocator_construction.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/VAO.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glad/glad.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/KHR/khrplatform.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/VBO.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/glm.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/detail/_fixes.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/detail/setup.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/src/VAO.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glad/glad.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/KHR/khrplatform.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/src/VBO.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/glm.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/detail/_fixes.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/detail/setup.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cassert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/assert.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/detail/../simd/platform.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/detail/../simd/platform.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cfloat \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/float.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/fwd.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/detail/qualifier.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/vec2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_bool2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/type_vec2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/qualifier.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/type_vec2.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/./compute_vector_relational.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/./setup.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_bool2_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_float2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_float2_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_double2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_double2_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_int2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_int2_sized.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../ext/vector_int2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../ext/scalar_int_sized.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../ext/../detail/setup.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_uint2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_uint2_sized.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../ext/vector_uint2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../ext/scalar_uint_sized.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/vec3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_bool3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/type_vec3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/type_vec3.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/compute_vector_relational.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_bool3_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_float3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_float3_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_double3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_double3_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_int3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_int3_sized.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../ext/vector_int3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_uint3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_uint3_sized.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../ext/vector_uint3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/vec4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_bool4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/type_vec4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/type_vec4.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_bool4_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_float4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_float4_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_double4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_double4_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/setup.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_int4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_int4_sized.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../ext/vector_int4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_uint4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/vector_uint4_sized.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../ext/vector_uint4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/mat2x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/matrix_double2x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/type_mat2x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/type_mat2x2.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../matrix.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/qualifier.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/setup.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../vec2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../vec3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../vec4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../mat2x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../mat2x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double2x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat2x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_vec2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_vec3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat2x3.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double2x3_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float2x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float2x3_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../mat2x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double2x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat2x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_vec4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat2x4.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double2x4_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float2x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float2x4_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../mat3x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double3x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat3x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat3x2.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double3x2_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float3x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float3x2_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../mat3x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double3x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat3x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat3x3.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/../matrix.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double3x3_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float3x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float3x3_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../mat3x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double3x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat3x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat3x4.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double3x4_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float3x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float3x4_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../mat4x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double4x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat4x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat4x2.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double4x2_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float4x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float4x2_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat2x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../mat4x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double4x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat4x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat4x3.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double4x3_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float4x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float4x3_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../mat4x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double4x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat4x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat4x4.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_double4x4_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float4x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/.././ext/matrix_float4x4_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/func_matrix.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../geometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/type_vec3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/func_geometric.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../exponential.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/type_vec1.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/qualifier.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/type_vec1.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/./compute_vector_relational.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/type_vec2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/type_vec3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/type_vec4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/func_exponential.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/../vector_relational.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/../detail/qualifier.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/../detail/setup.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/../detail/func_vector_relational.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/_vectorize.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../common.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/_fixes.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/func_common.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/compute_common.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/../detail/../detail/../detail/../detail/setup.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/matrix_double2x2_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/matrix_float2x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/./ext/matrix_float2x2_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/mat2x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/mat2x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/mat3x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/mat3x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/mat3x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/mat4x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/mat4x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/mat4x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/trigonometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/detail/func_trigonometric.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/detail/_vectorize.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/exponential.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/common.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/packing.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/detail/func_packing.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/detail/../common.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/detail/type_half.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/detail/type_half.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/geometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/matrix.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/vector_relational.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/integer.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/detail/func_integer.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/fwd.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/detail/qualifier.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/vec2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_bool2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/type_vec2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/qualifier.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/type_vec2.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/./compute_vector_relational.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/./setup.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_bool2_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_float2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_float2_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_double2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_double2_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_int2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_int2_sized.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../ext/vector_int2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../ext/scalar_int_sized.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../ext/../detail/setup.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_uint2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_uint2_sized.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../ext/vector_uint2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../ext/scalar_uint_sized.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/vec3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_bool3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/type_vec3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/type_vec3.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/compute_vector_relational.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_bool3_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_float3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_float3_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_double3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_double3_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_int3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_int3_sized.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../ext/vector_int3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_uint3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_uint3_sized.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../ext/vector_uint3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/vec4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_bool4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/type_vec4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/type_vec4.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_bool4_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_float4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_float4_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_double4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_double4_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/setup.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_int4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_int4_sized.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../ext/vector_int4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_uint4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/vector_uint4_sized.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../ext/vector_uint4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/mat2x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/matrix_double2x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/type_mat2x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/type_mat2x2.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../matrix.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/qualifier.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/setup.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../vec2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../vec3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../vec4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../mat2x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../mat2x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double2x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat2x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_vec2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_vec3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat2x3.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double2x3_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float2x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float2x3_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../mat2x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double2x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat2x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_vec4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat2x4.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double2x4_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float2x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float2x4_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../mat3x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double3x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat3x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat3x2.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double3x2_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float3x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float3x2_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../mat3x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double3x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat3x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat3x3.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/../matrix.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double3x3_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float3x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float3x3_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../mat3x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double3x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat3x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat3x4.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double3x4_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float3x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float3x4_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../mat4x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double4x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat4x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat4x2.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double4x2_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float4x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float4x2_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat2x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../mat4x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double4x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat4x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat4x3.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double4x3_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float4x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float4x3_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../mat4x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double4x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat4x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/../detail/type_mat4x4.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_double4x4_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float4x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/.././ext/matrix_float4x4_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/func_matrix.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../geometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/type_vec3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/func_geometric.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../exponential.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/type_vec1.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/qualifier.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/type_vec1.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/./compute_vector_relational.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/type_vec2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/type_vec3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/type_vec4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/func_exponential.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/../vector_relational.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/../detail/qualifier.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/../detail/setup.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/../detail/func_vector_relational.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/_vectorize.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../common.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/_fixes.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/func_common.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/compute_common.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/../detail/../detail/../detail/../detail/setup.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/matrix_double2x2_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/matrix_float2x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/./ext/matrix_float2x2_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/mat2x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/mat2x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/mat3x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/mat3x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/mat3x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/mat4x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/mat4x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/mat4x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/trigonometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/detail/func_trigonometric.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/detail/_vectorize.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/exponential.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/common.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/packing.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/detail/func_packing.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/detail/../common.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/detail/type_half.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/detail/type_half.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/geometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/matrix.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/vector_relational.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/integer.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/detail/func_integer.inl \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit_reference \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter.h \
@@ -1049,157 +1049,157 @@ CMakeFiles/helloWorld.dir/src/Mesh.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cstdarg \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/temp_value.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__split_buffer \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/EBO.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/Camera.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/GLFW/glfw3.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/matrix_transform.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../mat4x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../vec2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../vec3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../vec4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../ext/matrix_projection.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../ext/../gtc/constants.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../ext/../gtc/../ext/scalar_constants.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../ext/../gtc/../ext/../detail/setup.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../ext/../gtc/../ext/scalar_constants.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../ext/../gtc/constants.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../ext/../geometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../ext/../trigonometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../ext/../matrix.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../ext/matrix_projection.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../ext/matrix_clip_space.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../ext/../ext/scalar_constants.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../ext/matrix_clip_space.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../ext/matrix_transform.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../ext/matrix_transform.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/matrix_transform.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../geometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../trigonometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../matrix.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/type_ptr.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/quaternion.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../gtc/constants.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../gtc/matrix_transform.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/vector_relational.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/qualifier.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/vector_relational.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../vector_relational.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../common.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/type_float.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/setup.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/quaternion_common.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../ext/scalar_constants.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../ext/quaternion_geometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../ext/../geometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../ext/../exponential.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../ext/../ext/vector_relational.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../ext/quaternion_geometric.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../trigonometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../exponential.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/quaternion_common.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/quaternion_float.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/type_quat.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/../detail/type_mat3x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/../detail/type_mat4x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/../detail/type_vec3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/../detail/type_vec4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/../ext/vector_relational.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/../ext/quaternion_relational.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/../ext/../vector_relational.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/../ext/quaternion_relational.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/../gtc/constants.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/../gtc/matrix_transform.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/type_quat.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/../trigonometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/../exponential.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/../ext/quaternion_common.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/../ext/quaternion_geometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/quaternion_float_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/quaternion_double.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/quaternion_double_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/quaternion_relational.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/quaternion_geometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/quaternion_trigonometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/scalar_constants.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/quaternion_trigonometric.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/quaternion_transform.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../geometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/quaternion_transform.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../detail/type_mat3x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../detail/type_mat4x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../detail/type_vec3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../detail/type_vec4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/quaternion.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../trigonometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../geometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../exponential.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/epsilon.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../detail/setup.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../detail/qualifier.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/epsilon.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../vector_relational.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../common.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/vec1.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/vector_bool1.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../detail/type_vec1.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/vector_bool1_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/vector_float1.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/vector_float1_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/vector_double1.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/vector_double1_precision.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/vector_int1.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/vector_int1_sized.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../ext/vector_int1.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../ext/scalar_int_sized.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/vector_uint1.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/vector_uint1_sized.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../ext/vector_uint1.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../gtc/../ext/../ext/scalar_uint_sized.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../mat2x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../mat2x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../mat2x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../mat3x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../mat3x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../mat3x4.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../mat4x2.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/../mat4x3.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtc/type_ptr.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/rotate_vector.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/transform.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../glm.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../gtc/matrix_transform.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/transform.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtc/epsilon.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../ext/vector_relational.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../glm.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/rotate_vector.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/vector_angle.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/quaternion.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../gtc/constants.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../gtc/quaternion.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../ext/quaternion_exponential.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../ext/../common.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../ext/../trigonometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../ext/../geometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../ext/../ext/scalar_constants.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../ext/quaternion_exponential.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../ext/scalar_constants.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../gtx/norm.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../gtx/../geometric.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../gtx/../gtx/quaternion.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../gtx/../gtx/component_wise.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../gtx/../gtx/../detail/setup.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../gtx/../gtx/../detail/qualifier.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../gtx/../gtx/component_wise.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../gtx/../gtx/../ext/scalar_common.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../gtx/../gtx/../ext/../common.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../gtx/../gtx/../ext/scalar_common.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../gtx/norm.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/../gtx/../detail/qualifier.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/quaternion.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/../gtx/rotate_vector.hpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glm/gtx/vector_angle.inl \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/shaderClass.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/src/EBO.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/src/Camera.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/GLFW/glfw3.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/matrix_transform.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../mat4x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../vec2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../vec3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../vec4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../ext/matrix_projection.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../ext/../gtc/constants.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../ext/../gtc/../ext/scalar_constants.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../ext/../gtc/../ext/../detail/setup.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../ext/../gtc/../ext/scalar_constants.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../ext/../gtc/constants.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../ext/../geometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../ext/../trigonometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../ext/../matrix.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../ext/matrix_projection.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../ext/matrix_clip_space.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../ext/../ext/scalar_constants.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../ext/matrix_clip_space.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../ext/matrix_transform.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../ext/matrix_transform.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/matrix_transform.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../geometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../trigonometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../matrix.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/type_ptr.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/quaternion.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../gtc/constants.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../gtc/matrix_transform.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/vector_relational.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/qualifier.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/vector_relational.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../vector_relational.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../common.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/type_float.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/setup.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/quaternion_common.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../ext/scalar_constants.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../ext/quaternion_geometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../ext/../geometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../ext/../exponential.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../ext/../ext/vector_relational.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../ext/quaternion_geometric.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../trigonometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../exponential.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/quaternion_common.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/quaternion_float.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/type_quat.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/../detail/type_mat3x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/../detail/type_mat4x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/../detail/type_vec3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/../detail/type_vec4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/../ext/vector_relational.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/../ext/quaternion_relational.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/../ext/../vector_relational.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/../ext/quaternion_relational.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/../gtc/constants.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/../gtc/matrix_transform.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/type_quat.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/../trigonometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/../exponential.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/../ext/quaternion_common.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/../ext/quaternion_geometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/quaternion_float_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/quaternion_double.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/quaternion_double_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/quaternion_relational.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/quaternion_geometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/quaternion_trigonometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/scalar_constants.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/quaternion_trigonometric.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/quaternion_transform.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../geometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/quaternion_transform.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../detail/type_mat3x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../detail/type_mat4x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../detail/type_vec3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../detail/type_vec4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/quaternion.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../trigonometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../geometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../exponential.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/epsilon.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../detail/setup.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../detail/qualifier.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/epsilon.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../vector_relational.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../common.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/vec1.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/vector_bool1.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../detail/type_vec1.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/vector_bool1_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/vector_float1.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/vector_float1_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/vector_double1.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/vector_double1_precision.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/vector_int1.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/vector_int1_sized.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../ext/vector_int1.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../ext/scalar_int_sized.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/vector_uint1.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/vector_uint1_sized.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../ext/vector_uint1.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../gtc/../ext/../ext/scalar_uint_sized.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../mat2x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../mat2x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../mat2x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../mat3x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../mat3x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../mat3x4.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../mat4x2.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/../mat4x3.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtc/type_ptr.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/rotate_vector.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/transform.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../glm.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../gtc/matrix_transform.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/transform.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtc/epsilon.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../ext/vector_relational.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../glm.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/rotate_vector.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/vector_angle.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/quaternion.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../gtc/constants.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../gtc/quaternion.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../ext/quaternion_exponential.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../ext/../common.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../ext/../trigonometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../ext/../geometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../ext/../ext/scalar_constants.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../ext/quaternion_exponential.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../ext/scalar_constants.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../gtx/norm.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../gtx/../geometric.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../gtx/../gtx/quaternion.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../gtx/../gtx/component_wise.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../gtx/../gtx/../detail/setup.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../gtx/../gtx/../detail/qualifier.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../gtx/../gtx/component_wise.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../gtx/../gtx/../ext/scalar_common.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../gtx/../gtx/../ext/../common.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../gtx/../gtx/../ext/scalar_common.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../gtx/norm.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/../gtx/../detail/qualifier.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/quaternion.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/../gtx/rotate_vector.hpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glm/gtx/vector_angle.inl \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/src/shaderClass.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/filesystem \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/copy_options.h \
@@ -1225,5 +1225,5 @@ CMakeFiles/helloWorld.dir/src/Mesh.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/u8path.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/sstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/iostream \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/Texture.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/stb/stb_image.h
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/src/Texture.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/stb/stb_image.h

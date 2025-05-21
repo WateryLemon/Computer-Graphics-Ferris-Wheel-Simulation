@@ -1,8 +1,8 @@
 CMakeFiles/helloWorld.dir/src/Texture.cpp.o: \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/Texture.cpp \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/Texture.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/glad/glad.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/KHR/khrplatform.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/src/Texture.cpp \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/src/Texture.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/glad/glad.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/KHR/khrplatform.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdint.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__config_site \
@@ -33,7 +33,7 @@ CMakeFiles/helloWorld.dir/src/Texture.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_uintptr_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/_types/_intmax_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/_types/_uintmax_t.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/dependencies/stb/stb_image.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/dependencies/stb/stb_image.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/_stdio.h \
@@ -85,7 +85,7 @@ CMakeFiles/helloWorld.dir/src/Texture.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/malloc/_ptrcheck.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_dev_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_mode_t.h \
-  /Users/julestournier/Documents/Projects/Ferriswheel\ sim/src/shaderClass.h \
+  /Users/julestournier/Documents/Projects/Computer-Graphics-Summative/src/shaderClass.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/string \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/max.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/comp.h \
