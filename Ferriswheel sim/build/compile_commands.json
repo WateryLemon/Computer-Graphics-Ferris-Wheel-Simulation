@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/Users/julestournier/Documents/Projects/Ferriswheel sim/build",
+  "command": "/usr/bin/c++  -I\"/Users/julestournier/Documents/Projects/Ferriswheel sim/dependencies\" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -o CMakeFiles/helloWorld.dir/src/Main.cpp.o -c \"/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Main.cpp\"",
+  "file": "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Main.cpp",
+  "output": "CMakeFiles/helloWorld.dir/src/Main.cpp.o"
+},
+{
+  "directory": "/Users/julestournier/Documents/Projects/Ferriswheel sim/build",
+  "command": "/usr/bin/cc  -I\"/Users/julestournier/Documents/Projects/Ferriswheel sim/dependencies\" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -arch arm64 -o CMakeFiles/helloWorld.dir/src/glad.c.o -c \"/Users/julestournier/Documents/Projects/Ferriswheel sim/src/glad.c\"",
+  "file": "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/glad.c",
+  "output": "CMakeFiles/helloWorld.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/julestournier/Documents/Projects/Ferriswheel sim/build",
+  "command": "/usr/bin/c++  -I\"/Users/julestournier/Documents/Projects/Ferriswheel sim/dependencies\" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -o CMakeFiles/helloWorld.dir/src/VAO.cpp.o -c \"/Users/julestournier/Documents/Projects/Ferriswheel sim/src/VAO.cpp\"",
+  "file": "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/VAO.cpp",
+  "output": "CMakeFiles/helloWorld.dir/src/VAO.cpp.o"
+},
+{
+  "directory": "/Users/julestournier/Documents/Projects/Ferriswheel sim/build",
+  "command": "/usr/bin/c++  -I\"/Users/julestournier/Documents/Projects/Ferriswheel sim/dependencies\" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -o CMakeFiles/helloWorld.dir/src/VBO.cpp.o -c \"/Users/julestournier/Documents/Projects/Ferriswheel sim/src/VBO.cpp\"",
+  "file": "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/VBO.cpp",
+  "output": "CMakeFiles/helloWorld.dir/src/VBO.cpp.o"
+},
+{
+  "directory": "/Users/julestournier/Documents/Projects/Ferriswheel sim/build",
+  "command": "/usr/bin/c++  -I\"/Users/julestournier/Documents/Projects/Ferriswheel sim/dependencies\" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -o CMakeFiles/helloWorld.dir/src/EBO.cpp.o -c \"/Users/julestournier/Documents/Projects/Ferriswheel sim/src/EBO.cpp\"",
+  "file": "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/EBO.cpp",
+  "output": "CMakeFiles/helloWorld.dir/src/EBO.cpp.o"
+},
+{
+  "directory": "/Users/julestournier/Documents/Projects/Ferriswheel sim/build",
+  "command": "/usr/bin/c++  -I\"/Users/julestournier/Documents/Projects/Ferriswheel sim/dependencies\" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -o CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o -c \"/Users/julestournier/Documents/Projects/Ferriswheel sim/src/shaderClass.cpp\"",
+  "file": "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/shaderClass.cpp",
+  "output": "CMakeFiles/helloWorld.dir/src/shaderClass.cpp.o"
+},
+{
+  "directory": "/Users/julestournier/Documents/Projects/Ferriswheel sim/build",
+  "command": "/usr/bin/c++  -I\"/Users/julestournier/Documents/Projects/Ferriswheel sim/dependencies\" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -o CMakeFiles/helloWorld.dir/src/Camera.cpp.o -c \"/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Camera.cpp\"",
+  "file": "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Camera.cpp",
+  "output": "CMakeFiles/helloWorld.dir/src/Camera.cpp.o"
+},
+{
+  "directory": "/Users/julestournier/Documents/Projects/Ferriswheel sim/build",
+  "command": "/usr/bin/c++  -I\"/Users/julestournier/Documents/Projects/Ferriswheel sim/dependencies\" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -o CMakeFiles/helloWorld.dir/src/Texture.cpp.o -c \"/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Texture.cpp\"",
+  "file": "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Texture.cpp",
+  "output": "CMakeFiles/helloWorld.dir/src/Texture.cpp.o"
+},
+{
+  "directory": "/Users/julestournier/Documents/Projects/Ferriswheel sim/build",
+  "command": "/usr/bin/c++  -I\"/Users/julestournier/Documents/Projects/Ferriswheel sim/dependencies\" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -o CMakeFiles/helloWorld.dir/src/Mesh.cpp.o -c \"/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Mesh.cpp\"",
+  "file": "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/Mesh.cpp",
+  "output": "CMakeFiles/helloWorld.dir/src/Mesh.cpp.o"
+},
+{
+  "directory": "/Users/julestournier/Documents/Projects/Ferriswheel sim/build",
+  "command": "/usr/bin/c++  -I\"/Users/julestournier/Documents/Projects/Ferriswheel sim/dependencies\" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -o CMakeFiles/helloWorld.dir/src/stb.cpp.o -c \"/Users/julestournier/Documents/Projects/Ferriswheel sim/src/stb.cpp\"",
+  "file": "/Users/julestournier/Documents/Projects/Ferriswheel sim/src/stb.cpp",
+  "output": "CMakeFiles/helloWorld.dir/src/stb.cpp.o"
+}
+]
