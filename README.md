@@ -1,4 +1,4 @@
-![3D_Interactive_Ferris_Wheel_Simulator _🎡](https://github.com/user-attachments/assets/980512fd-ec37-4cd3-8d88-e3090f357171)
+![3D_Interactive_Ferris_Wheel_Simulator _🎡](https://github.com/user-attachments/assets/0da4cb01-2bb5-472b-9f77-97d59e5ba9ea)
 
 <a name="top"></a>
 
