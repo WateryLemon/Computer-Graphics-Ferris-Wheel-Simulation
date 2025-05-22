@@ -7,8 +7,6 @@
 ![Uni Project](https://img.shields.io/badge/-university%20project-red?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/WateryLemon/Computer-Graphics-Summative)
 
-⭐ Star us on GitHub — every star is greatly appreciated
-
 ## Table of Contents
 - [About](#-about)
 - [How to Build](#-how-to-build)
